@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.imgur.com/F0poKy4.png"><br>
-  Node.js wrapper for the Crowdin API
+  <b>Node.js wrapper for the <a href="https://support.crowdin.com/api/api-integration-setup/">Crowdin</a> API</b>
   <br><br>
   <p>
     <a href="https://netlify.com/"><img src="https://i.imgur.com/oJjg6fA.png" alt="Deploys by Netlify" width="128" height="24"></a>
