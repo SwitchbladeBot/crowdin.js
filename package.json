@@ -1,0 +1,24 @@
+{
+  "name": "crowdin-js",
+  "version": "0.0.1",
+  "description": "Node.js wrapper for the Crowdin API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwitchbladeBot/crowdin.js.git"
+  },
+  "keywords": [
+    "crowdin",
+    "crowdin-js",
+    "crowdin-wrapper"
+  ],
+  "author": "SwitchbladeBot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SwitchbladeBot/crowdin.js/issues"
+  },
+  "homepage": "https://github.com/SwitchbladeBot/crowdin.js#readme"
+}
