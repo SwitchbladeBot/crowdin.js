@@ -1,0 +1,1 @@
+console.log('Not available already - https://github.com/SwitchbladeBot/crowdin.js/')
