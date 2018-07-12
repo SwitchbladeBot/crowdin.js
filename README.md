@@ -10,4 +10,6 @@
     <a href="https://david-dm.org/SwitchbladeBot/crowdin.js"><img src="https://david-dm.org/SwitchbladeBot/crowdin.js/status.svg"/></a>
     <a href="https://david-dm.org/SwitchbladeBot/crowdin.js?type=dev"><img src="https://david-dm.org/SwitchbladeBot/crowdin.js/dev-status.svg"/></a>
   </p>
+  
+  `npm install crowdin.js`
 </div>
