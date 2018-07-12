@@ -11,22 +11,3 @@
     <a href="https://david-dm.org/SwitchbladeBot/crowdin.js?type=dev"><img src="https://david-dm.org/SwitchbladeBot/crowdin.js/dev-status.svg"/></a>
   </p>
 </div>
-
-## Setting up a development environment
-**0. Fork the repository**
-
-**1. Clone your fork**
-```bash
-git clone https://github.com/<your github username>/bladey-web
-cd bladey-web
-```
-
-**2. Install all the dependencies with NPM**
-```bash
-npm install
-```
-
-**3. Build and serve!**
-```
-npm run start
-```
