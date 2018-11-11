@@ -1,3 +1,6 @@
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/SwitchbladeBot/crowdin.js.svg)](https://greenkeeper.io/)
+
 <div align="center">
   <img src="https://i.imgur.com/F0poKy4.png"><br>
   <b>Node.js wrapper for the <a href="https://support.crowdin.com/api/api-integration-setup/">Crowdin</a> API</b>
